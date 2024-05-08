@@ -20,6 +20,9 @@ This is a simple web application for managing tasks. It allows users to create, 
 ## Used HTML, CSS, and Blade for frontend views.
 - Styled using simple CSS for a clean and user-friendly interface.
 - Implemented a date filter feature to allow users to filter tasks based on due dates.
+- ## Validation
+-   successfully  Implemented client-side validation to ensure that task titles are mandatory and have a maximum character limit of 100 characters.
+·     Show appropriate error messages if the validation fails.
 ## Additional Notes
 - The application follows the MVC (Model-View-Controller) architectural pattern for better organization and separation of concerns.
 - TaskController handles the logic for managing tasks, while corresponding views are stored in the `resources/views/tasks` directory.
