@@ -1,7 +1,11 @@
 # Task_management.
 This is a simple web application for managing tasks. It allows users to create, view, edit, and delete tasks. Additionally, users can filter tasks based on their created dates.
 
-## Setup Instructions
+## Setup Instructions![Screenshot (368)](https://github.com/Ashirbadparida15/Task_management/assets/90901326/24e74b3e-2090-4ea4-b841-12b1cd249f30)
+![Screenshot (369)](https://github.com/Ashirbadparida15/Task_management/assets/90901326/16923db3-04de-4757-bd4f-a9e53638a85f)
+![Screenshot (370)](https://github.com/Ashirbadparida15/Task_management/assets/90901326/3f6c18b3-309e-4a34-8f95-8becee8bd591)
+![Screenshot (371)](https://github.com/Ashirbadparida15/Task_management/assets/90901326/88fda9ee-f035-4979-9618-d2d02636e5d8)
+
 1. Clone the repository:
 2.  ## Set Up Environment:
 - Rename `.env.example` to `.env` and update database Name if you did not give proper name it can be taken defauld i.e Laravel.
